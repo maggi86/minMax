@@ -1,0 +1,16 @@
+*{
+    justify-content: center;
+}
+#minimum, #maximum, #values {
+    height: 25px;
+}
+
+body{
+    background-color: rgb(209, 168, 250);
+}
+
+input {
+    border-radius: 10px;
+    border-width: 0.1px rgb(176, 176, 176);
+    height: 30px;
+}
